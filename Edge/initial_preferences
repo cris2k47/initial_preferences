@@ -1,26 +1,10 @@
 {
    "browser": {
       "show_discover_toolbar_button": false,
-      "hub_apps_tower_visible": true,
-      "show_profile_icon_in_title_bar": false,
-      "show_edge_split_window_toolbar_button": false,
-      "show_toolbar_collections_button": false,
-      "show_toolbar_downloads_button": true,
-      "show_toolbar_vertical_tabs_button": false,
-      "show_toolbar_workspaces_button": false,
-      "show_toolbar_browser_essentials_button": 0
+      "show_toolbar_downloads_button": true
    },
-   "local_browser_data_share": {
-      "enabled": false
-   },
-   "edge_quick_search": {
-      "show_mini_menu": false
-   },
-   "edge": {
-      "show_pip_overlay_control": false
-   },
-   "smart_explore": {
-      "on_image_hover": false
+   "session": {
+      "restore_on_startup": 1
    },
    "extensions": {
       "settings": {
